@@ -1,0 +1,6 @@
+One application I didn't choose is BlueJ. I didn't choose this IDE 
+because it scored pretty low on both user rating and user satisfaction 
+according to softwaretestinghelp.com. With this, it also doesn't seem
+to have an easy learning curve to potentially attract its usage. Although
+it is listen as a good option for beginners, it lacks features for bigger
+applications
